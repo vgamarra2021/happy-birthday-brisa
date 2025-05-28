@@ -1,0 +1,23 @@
+{
+  "greeting": "Hola",
+  "name": "Brisa",
+  "greetingText": "¡Me encanta tu nombre, por cierto!",
+  "wishText": "¡Que la felicidad y el éxito siempre te acompañen! :)",
+  "imagePath": "img/brisa.png",
+  "text1": "¡Hoy es tu cumpleaños!!! :D",
+  "textInChatBox": "¡Feliz cumpleaños para ti! ¡Yeee! Muchos muchos buenos deseos...",
+  "sendButtonLabel": "Enviar",
+  "text2": "Eso es lo que iba a hacer.",
+  "text3": "Pero luego me detuve.",
+  "text4": "Me di cuenta de que quería hacer algo",
+  "text4Adjective": "especial",
+  "text5Entry": "Porque,",
+  "text5Content": "Eres Especial",
+  "smiley": ":)",
+  "bigTextPart1": "F",
+  "bigTextPart2": "E",
+  "wishHeading": "¡Feliz Cumpleaños!",
+  "outroText": "Bueno, ahora vuelve y dime si te gustó.",
+  "replayText": "O haz clic, si quieres verlo de nuevo.",
+  "outroSmiley": ":)"
+}
